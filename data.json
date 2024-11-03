@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "LightStick",
+            "price": "2999",
+            "image": "images/lightstick.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "name": "T-Shirt",
+            "price": "800",
+            "image": "images/tshirt.png",
+            "isAvailable": true,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "name": "Tote Bag",
+            "price": "500",
+            "image": "images/tote-bag.png",
+            "isAvailable": true,
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "name": "Hoodie",
+            "price": "1500",
+            "image": "images/hoodie.png",
+            "isAvailable": false,
+            "rating": 5
+        },
+        {
+            "id": 5,
+            "name": "Poster",
+            "price": "300",
+            "image": "images/poster.png",
+            "isAvailable": true,
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "name": "Album CD",
+            "price": "1000",
+            "image": "images/album-cd.png",
+            "isAvailable": true,
+            "rating": 4
+        },
+        {
+            "id": 7,
+            "name": "Sticker Pack",
+            "price": "250",
+            "image": "images/sticker-pack.png",
+            "isAvailable": true,
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "name": "Phone Case",
+            "price": "700",
+            "image": "images/phone-case.png",
+            "isAvailable": false,
+            "rating": 3
+        },
+        {
+            "id": 9,
+            "name": "Keychain",
+            "price": "150",
+            "image": "images/key-chain.png",
+            "isAvailable": true,
+            "rating": 4
+        },
+        {
+            "id": 10,
+            "name": "Cap",
+            "price": "600",
+            "image": "images/cap.png",
+            "isAvailable": true,
+            "rating": 4
+        }
+    ]
+}
